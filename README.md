@@ -5,7 +5,7 @@ Come in the second week of MCO, I started to download lots of movies from the te
  In the third week of MCO, the Online Distance Learning has started. For the first time I dont really prepare, but after that I think I can catch up with this learning methods. The only problem this I faced was internet connections is quite slow because I had spent it on downloaded the movies and the connections also slow when raining. I am very thankful to UITM and all of the college staff because they take a good care to all of we students who stayed in Campus.
  Below is the link where we can download the movies via telegram and the some pitcture of games that I have played.
  
-<p><a href=https://t.me/movies_cartoons_english>visits the telegram</a></p>
+[[https://t.me/movies_cartoons_english]]
  
  ![](camper/ML%20map%20view.jpg)
  ![](camper/MLBB.jpg)
